@@ -72,10 +72,3 @@
 ```json
 "ESTADO_DEL_PAGO"
 ```
-
----
-
-## Notas
-- Reemplaza `{account}` por el identificador de la cuenta del usuario y `{paymentId}` por el identificador del pago.
-- Todos los endpoints devuelven respuestas en formato JSON.
-- El campo `amount` del pago se calcula automáticamente a partir de los productos y cantidades enviados.
